@@ -3,5 +3,5 @@
 - Israeli 🟦⬜✡️⬜🟦
 - Jewish ✡️ 
 - Student at the Hebrew university in Jerusalem 🎓
-- 8th grade 🏫 
+- 9th grade 🏫 
 - C#, Python, JS, HTML, CSS 🖥 
