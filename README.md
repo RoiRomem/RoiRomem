@@ -4,4 +4,4 @@
 - Jewish ✡️ 
 - Student at the Hebrew university in Jerusalem 🎓
 - 9th grade 🏫 
-- C#, Python, JS, HTML, CSS 🖥 
+- C#, Python, JS, HTML, CSS, Java 🖥 
