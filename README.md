@@ -6,7 +6,7 @@ for freelance work? do reach, <a href="mailto:roiromem@gmail.com">Email</a> :)
 
 * Inrolled in the Israeli national cyber education program Magshimim
 
-* Studies in ORT givat ram
+* Studies at ORT givat ram
 
 📈 my github stats
 
