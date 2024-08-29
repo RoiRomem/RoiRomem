@@ -2,7 +2,7 @@ for freelance work? do reach, <a href="mailto:roiromem@gmail.com">Email</a> :)
 
 📜 **about me:**
 
-* 15 year old computer science student from Israel
+* 15 year old Israeli highschool sophomore
 
 * Inrolled in the Israeli national cyber education program Magshimim
 
