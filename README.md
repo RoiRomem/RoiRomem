@@ -1,2 +1,13 @@
-Azerbajian Cyber Summer School gradute
-Lives in Israel
+for freelance work? do reach, <a href="mailto:roiromem@gmail.com">Email</a> :)
+
+📜 **about me:**
+
+* 15 year old computer science student from Israel
+
+* Inrolled in the Israeli national cyber education program Magshimim
+
+* Studies in ORT givat ram
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roiromem&show_icons=true&theme=gotham" alt="roiromem" />
