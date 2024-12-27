@@ -4,7 +4,7 @@ for freelance work? do reach, <a href="mailto:roiromem@gmail.com">Email</a> :)
 
 * 15 year old Israeli highschool sophomore
 
-* Inrolled in the Israeli national cyber education program Magshimim
+* Enrolled in the Israeli national cyber education program Magshimim
 
 * Studies at ORT givat ram
 
