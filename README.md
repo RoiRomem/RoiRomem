@@ -8,7 +8,6 @@
     "Game dev": ["Unity", "Blender"],
     "Frontend": ["React", "Svelte", "Scss"],
     "Backend" ["Nodejs", "Firebase"],
-    "Ai": "DeepSeek"
   }
   "Experience": {
     "Education": ["Self taught", "Magshimim cyber"],
