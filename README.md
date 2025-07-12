@@ -1,9 +1,35 @@
-```JSON
-{
-  "Name": "Roi Romem",
-  "Age": 15,
-  "Home": "Motza Ilit",
-  "Code": [".c", ".cpp", ".rs", ".v", ".cs", ".go", ".java", ".py", ".js", ".ts", ".css", ".html"],
-  "Feel Free to reach out": true
-}
-```
+# I build things. ⚙️
+
+Some of them work. Some of them work eventually. ⏳
+
+---
+
+Just a 16-year-old high school junior from the holy city of Jerusalem. 🕍
+
+---
+
+### Projects 📂
+
+Check out the pinned repos. 📌
+
+---
+
+### Stack 🛠️
+
+C · C++ · C# · Java · Python · Rust · Go · JS/TS
+
+React · Svelte · Unity · Linux · WPIlib
+
+---
+
+### Elsewhere 🌐
+
+- Listening: _Probably to Radiohead_ 🎧  
+- GitHub: [RoiRomem](https://github.com/RoiRomem) 🤖  
+- Apple Music: [Roi Romem](https://music.apple.com/profile/roiromem) 🐙
+
+---
+
+> Today is the first day  
+> of the rest of your days.  
+> — _Radiohead_ 🎶
