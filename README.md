@@ -2,8 +2,6 @@
 
 Some of them work. Some of them work eventually. ⏳
 
----
-
 Just a 16-year-old high school junior from the holy city of Jerusalem. 🕍
 
 ---
