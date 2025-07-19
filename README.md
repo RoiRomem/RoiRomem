@@ -25,7 +25,6 @@ React · Svelte · Unity · Linux · WPIlib
 ### Elsewhere 🌐
 
 - Listening: _Probably to Radiohead_ 🎧  
-- GitHub: [RoiRomem](https://github.com/RoiRomem) 🤖  
 - Apple Music: [Roi Romem](https://music.apple.com/profile/roiromem) 🐙
 - Contact: [roiromem@gmail.com](mailto:roiromem@gmail.com) 📩
 
