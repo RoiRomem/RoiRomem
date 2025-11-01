@@ -15,3 +15,6 @@
 
 ![Roi's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiromem&show_icons=true&theme=synthwave)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiromem&layout=compact&theme=synthwave)
+
+<hr/>
+<image src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/the%20git%20pfp.gif?raw=true" />
