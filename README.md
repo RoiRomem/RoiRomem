@@ -10,11 +10,5 @@
 ![WPILib](https://img.shields.io/badge/WPILib-%234F8CCB?logo=wpilib&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-## 📊 GitHub Stats  
-
-![Roi's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiromem&show_icons=true&theme=synthwave)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiromem&layout=compact&theme=synthwave)
-
 <hr/>
 <image src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/the%20git%20pfp.gif?raw=true" />
